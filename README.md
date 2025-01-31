@@ -9,8 +9,8 @@
 - [_Capcut_](https://www.capcut.com/pt-br/login)
 
 ## Como foi feito ?
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
+- Roteiro gerado via Chatgpt
+- Audio gerado pela ElevenLabs
 - Audio editado no Capcut para adicionar sons de fundo
 
 ## Instruções de execução
