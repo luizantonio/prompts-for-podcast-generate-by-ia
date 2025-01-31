@@ -10,7 +10,7 @@
 
 > [!IMPORTANT]
 > Para edição foi utilizado o Capcut, mas o arquivo disponibilizado
-> na Soundcloud não possui sons de fundo devido a falha no upload  
+> na [Soundcloud](https://soundcloud.com/) não possui sons de fundo devido a falha no upload  
   
 ## Como foi feito ?
 - Roteiro gerado via Chatgpt
