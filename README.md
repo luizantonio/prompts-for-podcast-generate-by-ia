@@ -8,6 +8,10 @@
 - [_ElevenLabs_](https://elevenlabs.io/app/sign-in)
 - [_Capcut_](https://www.capcut.com/pt-br/login)
 
+> [!IMPORTANT]
+> Para edição foi utilizado o Capcut, mas o arquivo disponibilizado
+> na Soundcloud não possui sons de fundo devido a falha no upload  
+  
 ## Como foi feito ?
 - Roteiro gerado via Chatgpt
 - Audio gerado pela ElevenLabs
