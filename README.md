@@ -6,16 +6,19 @@
 ## Tecnologias utilizadas no projeto  
 - [_ChatGPT_](https://chatgpt.com)  
 - [_ElevenLabs_](https://elevenlabs.io/app/sign-in)
+- [_Capcut_](https://www.capcut.com/pt-br/login)
 
 ## Como foi feito ?
 - Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs  
+- Audio gerado pela elevenLabs
+- Audio editado no Capcut para adicionar sons de fundo
 
 ## Instruções de execução
 Utilize os prompts para criar um podcast siga o passo a passo abaixo.
 
 1. Use os prompts de roteiro no chagpt
 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
+3. Use o Capcut para editar o audio e adicionar sons de fundo
 
 
 ## Expert  
