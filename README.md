@@ -9,8 +9,9 @@
 - [_Capcut_](https://www.capcut.com/pt-br/login)
 
 > [!IMPORTANT]
-> Para edição foi utilizado o Capcut, mas o arquivo disponibilizado
-> na [Soundcloud](https://soundcloud.com/) não possui sons de fundo devido a falha no upload  
+> Para edição foi utilizado o Capcut, mas o arquivo disponibilizado, mas não foi feito o upload.
+> O arquivo na [Soundcloud](https://soundcloud.com/) não possui sons de fundo.
+> Logo não foi possível fazer o upload do arquivo editado ficando disponibilizado o original sem sons de fundo.  
   
 ## Como foi feito ?
 - Roteiro gerado via Chatgpt
